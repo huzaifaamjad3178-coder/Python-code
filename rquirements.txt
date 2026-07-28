@@ -1,0 +1,4 @@
+steamlit
+google-genai
+requests
+python-dotenv
